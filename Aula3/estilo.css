@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* -> Isso para iniciar o comentário
+span{
+    color: red;
+}
+p{
+    color:blue;
+}
+p>span{
+    color:purple;
+}
+Finalizar o comentário -> */
+
+/*
+ó o comentario de tanque aqui ó
+
+███۞███████ ]▄▄▄▄▄▄▄▄▄▄▄▄▃
+▂▄▅█████████▅▄▃▂
+I███████████████████].
+◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤…
+*/
+
+article p{
+    color: blueviolet;
+    font-size: 20px;
+    text-align: center;
+}
+
+p+p{
+    color:brown;
+    font-size: 10px;
+    text-align: right;
+}
