@@ -1,0 +1,10 @@
+img{
+    /* border: largura tipo cor */
+    border: 5px solid blue;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+
+    /* Disposição - posição dos elementos*/
+    display: inline;
+}
