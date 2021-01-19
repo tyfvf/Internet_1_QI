@@ -1,0 +1,24 @@
+ul{
+    background-color: greenyellow;
+    list-style: none;
+    padding: 20px;
+}
+
+li{
+    padding: 40px;
+    display: inline;
+}
+
+a:link, a:visited{
+    color: black;
+    text-decoration: none;
+    font-size: 2.25rem;
+    font-weight: bold;
+    padding: 5px;
+}
+
+a:hover{
+    background-color:violet;
+    padding: 5px;
+    border-radius: 10px;
+}
