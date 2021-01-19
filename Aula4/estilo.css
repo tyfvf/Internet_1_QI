@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Chilanka&display=swap');
+
+@font-face{
+    font-family: "MinhaFonteTop";
+    src: url("Chilanka-Regular.ttf");
+}
+
+p{
+    text-align: justify;
+    text-decoration: underline overline line-through;
+    text-decoration-color: aqua; 
+    text-indent: 50px;
+    color: rgb(80,10,255);
+    text-transform: capitalize;
+    font-family: "MinhaFonteTop",sans-serif;
+    font-size: 32px;
+    font-style: italic;
+    font-weight: bold;
+}
